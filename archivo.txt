@@ -5,8 +5,6 @@ git remote add origin https://github.com/Diam0ndDev/primer-repo-1.0.git
 git branch -M main
 git push -u origin main
 
-puta
-
 con git pull nos traemos la informacion del repositorio 
 pero sin saber si lo que esta por entrar nos beneficia por lo que deberiamos 
 hacer un git fetch y un git switch --detach origin/{nombre de la rama del repo} para observar si quiero estos cambios
