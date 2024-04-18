@@ -4,3 +4,6 @@ para hacer un push de un repo desde 0
 git remote add origin https://github.com/Diam0ndDev/primer-repo-1.0.git
 git branch -M main
 git push -u origin main
+
+con git pull nos traemos la informacion del repositorio pero sin crear un conflicto sobre los cambios
+por lo que lo mejor seria git fetch o trabajar en una rama paralela
